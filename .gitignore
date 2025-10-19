@@ -1,0 +1,37 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated output files (but keep the dataset)
+final_exam_schedule.csv
+
+# Project PDF files
+*.pdf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
