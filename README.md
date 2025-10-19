@@ -51,4 +51,8 @@ It keeps the best schedules and makes new ones by mixing the good ones together.
 
 The program creates a schedule with 23 exams across 5 days. Each exam has its own classroom and teacher. No conflicts between students or teachers.
 
+## Note
+
+One soft constraint (faculty meeting breaks) is implemented in a simplified form and will be fully developed in future versions.
+
 **Developer:** Muhammad Zain Raza, student of BS AI at FAST NUCES Islamabad
